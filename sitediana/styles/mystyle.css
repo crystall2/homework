@@ -1,0 +1,45 @@
+html,
+body {
+margin: 0;
+font-family: "Ebrima";
+font-size: 14px;
+line-height: 20px;
+  }
+  header
+   {
+    background-color: #3445ef;
+    border: 2px solid #80e645;
+  }
+  nav,
+  section,
+  aside {
+    background-color: #6d85f3;
+    border: 2px solid #646acf;
+  }
+  h1 {
+    font-size: 18px;
+    background-color: #cf7ae9;
+    border: 2px solid #5d874a;
+  }
+  h2 {
+    font-size: 18px;
+    background-color: #8bc110;
+    border: 2px solid #87e1ac;
+  }
+  p {
+    background-color: #45e3d5;
+    border: 2px solid #26dfbe;
+  }
+  *{
+    position: relative;
+    padding: 15px 30px 15px;
+    margin: 0;
+    border-radius: 2px;
+  }
+  
+  *:not(:last-child) {
+    margin-bottom: 40px;
+  }
+  
+
+  
